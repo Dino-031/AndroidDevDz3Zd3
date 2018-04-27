@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">zd3</string>
+    <string name="person_name">Dino Pečurlić</string>
+    <string name="my_interests_text">Android development,\n arduino, embedded systems</string>
+    <string name="my_summary_text">Accomplished software developer with 15 years of experience in development of applications. Excels in every stage of the life cycle of software development, including design creation, coding, debugging, testing, and maintenance. Expert in devising innovative and tailored solutions to assist businesses achieve their goals in a variety of industries. Advanced skills and knowledge of leading programming tools with a strong background in mathematics, algorithms, and data-processing logic.</string>
+    <string name="my_programming_languages_text">C, C++, C#, Java,\n Javascript</string>
+    <string name="my_experience_text">Worked for 6 months for Reroot in Osijek.\n Currently gaining knowledge at AndroidDev Academy.</string>
+    <string name="ferit_fullName_text">Faculty of electrical engineering, computer science and information techonogy Osijek</string>
+</resources>
